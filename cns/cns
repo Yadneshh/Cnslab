@@ -1,0 +1,10 @@
+The following python files include cns lab codes as follows:
+cns1.ceaser cipher
+cns2.polyalphabetic cipher
+cns3.playfair cipher
+cns4.hill cipher
+cns5.railfence cipher
+cns6.simple columnar transposition 
+cns7.advanced columnar transposition 
+cns8.simple des technique
+cns9.rsa algorithm with small number
